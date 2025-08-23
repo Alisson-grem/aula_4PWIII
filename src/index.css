@@ -1,0 +1,21 @@
+
+
+body {
+
+padding: 50px;
+padding-bottom: 500px;
+background-color: cadetblue;
+}
+
+h1 {
+  color:black;
+}
+
+h2 {
+  color: black;
+}
+
+p{
+  background-color: dimgray;
+  padding: 10px;
+}
