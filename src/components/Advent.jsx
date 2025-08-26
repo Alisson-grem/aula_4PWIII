@@ -8,8 +8,17 @@ function Advent({music, year_debut, gradiuations, model_showcase, advent}) {
             <div>
                 <img src={advent} alt="Advent" width={700}/>
             </div>
-            <Justice music="" year_debut="" gradiuations="" 
-            model_showcase="" justice="./Justice Group.png"/>
+            <Justice music="Musica do Grupo: ABOVE BELOW" year_debut="Quando foram Debutadas: 
+            Elizabeth Rose Bloodflame: 21 de Junho, 2024, 
+            Gigi Murin: 21 de Junho, 2024, 
+            Cecilia Immergreen: 22 de Junho, 2024, 
+            Raora Panthera: 22 de Junho, 2024" 
+            gradiuations="Graduação de Membros até o momento: Ninguem saiu do grupo" 
+            model_showcase="Quando Receberam seus Modelos 3D: 
+            Elizabeth Rose Bloodflame: 1 de Agosto, 2025, 
+            Gigi Murin: 2 de Agosto, 2025, 
+            Cecilia Immergreen: 8 de Agosto, 2025, 
+            Raora Panthera: 9 de Agosto, 2025" justice="./Justice Group.png"/>
         </>
     )
 
