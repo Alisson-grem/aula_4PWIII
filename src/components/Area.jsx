@@ -9,7 +9,8 @@ function Area({music, year_debut, gradiuations, model_showcase, area}) {
             <div>
                 <img src={area} alt="Area 15" width={700}/>
             </div>
-            <Holoro holoro="./Holoro Group.png"/>
+            <Holoro music="" year_debut="" gradiuations="" 
+            model_showcase="" holoro="./Holoro Group.png"/>
         </>
     )
 

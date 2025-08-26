@@ -8,7 +8,8 @@ function Advent({music, year_debut, gradiuations, model_showcase, advent}) {
             <div>
                 <img src={advent} alt="Advent" width={700}/>
             </div>
-            <Justice justice="./Justice Group.png"/>
+            <Justice music="" year_debut="" gradiuations="" 
+            model_showcase="" justice="./Justice Group.png"/>
         </>
     )
 

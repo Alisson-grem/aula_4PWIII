@@ -8,7 +8,8 @@ function Myth({music, year_debut, gradiuations, model_showcase, myth}) {
             <div>
                 <img src={myth} alt="Myth" width={700}/>
             </div>
-            <Promise promise="./Promise (Council) Group.png"/>
+            <Promise music="" year_debut="" gradiuations="" 
+            model_showcase="" promise="./Promise (Council) Group.png"/>
         </>
     )
 

@@ -8,7 +8,8 @@ function Hero({music, year_debut, gradiuations, model_showcase, hero}) {
             <div>
                 <img src={hero} alt="HoloH3ro" width={700}/>
             </div>
-            <Gloss gloss="./ReGloss Group.png"/>
+            <Gloss music="" year_debut="" gradiuations="" 
+            model_showcase="" gloss="./ReGloss Group.png"/>
         </>
     )
 

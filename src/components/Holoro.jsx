@@ -8,7 +8,8 @@ function Holoro({music, year_debut, gradiuations, model_showcase, holoro}) {
             <div>
                 <img src={holoro} alt="Holoro" width={700}/>
             </div>
-            <Hero hero="./HoloHero Group.png"/>
+            <Hero music="" year_debut="" gradiuations="" 
+            model_showcase="" hero="./HoloHero Group.png"/>
         </>
     )
 

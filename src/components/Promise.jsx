@@ -8,7 +8,8 @@ function Promise({music, year_debut, gradiuations, model_showcase, promise}) {
             <div>
                 <img src={promise} alt="Promise" width={700}/>
             </div>
-            <Advent advent="./Advent Group.png"/>
+            <Advent music="" year_debut="" gradiuations="" 
+            model_showcase="" advent="./Advent Group.png"/>
         </>
     )
 

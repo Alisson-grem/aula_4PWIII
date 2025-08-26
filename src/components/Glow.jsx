@@ -8,7 +8,8 @@ function Glow({music, year_debut, gradiuations, model_showcase, flow}) {
             <div>
                 <img src={flow} alt="FLOW GLOW" width={700}/>
             </div>
-            <Holox holox="./holoX Group.png"/>
+            <Holox music="" year_debut="" gradiuations="" 
+            model_showcase="" holox="./holoX Group.png"/>
         </>
     )
 

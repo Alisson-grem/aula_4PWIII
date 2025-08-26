@@ -9,7 +9,8 @@ function Gloss({music, year_debut, gradiuations, model_showcase, gloss}) {
             <div>
                 <img src={gloss} alt="ReGloss" width={700}/>
             </div>
-            <Glow flow="./FLOW GLOW Group.png"/>
+            <Glow music="" year_debut="" gradiuations="" 
+            model_showcase="" flow="./FLOW GLOW Group.png"/>
         </>
     )
 

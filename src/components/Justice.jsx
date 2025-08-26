@@ -8,7 +8,8 @@ function Justice({music, year_debut, gradiuations, model_showcase, justice}) {
             <div>
                 <img src={justice} alt="Justice" width={700}/>
             </div>
-            <Area area="./Area 15 Group.png"/>
+            <Area music="" year_debut="" gradiuations="" 
+            model_showcase="" area="./Area 15 Group.png"/>
         </>
     )
 
