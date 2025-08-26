@@ -4,7 +4,7 @@ body {
 
 padding: 50px;
 padding-bottom: 500px;
-background-color: cadetblue;
+background-color: #69dfdc ;
 }
 
 h1 {
@@ -15,7 +15,8 @@ h2 {
   color: black;
 }
 
-p{
-  background-color: dimgray;
+h2{
+  border-radius: 20px;
+  background-color: whitesmoke;
   padding: 10px;
 }

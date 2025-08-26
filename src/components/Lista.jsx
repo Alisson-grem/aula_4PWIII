@@ -1,12 +1,13 @@
-import Item from "./Item"
+import Myth from "./Myth"
 function Lista() {
 
     return (
         <>
-        <h2>Hololive Vtubers</h2>
+        <h1>Hololive Vtubers</h1>
+        <h2>Hololive English</h2>
+        <h2>EN: Myth</h2>
             <ul>
-                <Item marca="Fuwawa Abyssguard" ano_lancamento={2023}/>
-                <Item marca="Mococo Abyssguard" ano_lancamento={2023}/>
+                <Myth music="Like a Thousand Years Journey" year_debut="2020" gradiuations="" model_showcase="" myth="./Myth Group.png"/>
             </ul>
         </>
     )
