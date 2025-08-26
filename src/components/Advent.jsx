@@ -3,12 +3,13 @@ import Justice from './Justice';
 function Advent({music, year_debut, gradiuations, model_showcase, advent}) {
     return(
         <>
-            <h2>En: Advent</h2>
+            <h3>EN: Advent</h3>
             <li>{music} - {year_debut} - {gradiuations} - {model_showcase}</li>
             <div>
                 <img src={advent} alt="Advent" width={700}/>
             </div>
-            <Justice music="Musica do Grupo: ABOVE BELOW" year_debut="Quando foram Debutadas: 
+            <Justice music="Musica do Grupo: ABOVE BELOW" 
+            year_debut="Quando foram Debutadas: 
             Elizabeth Rose Bloodflame: 21 de Junho, 2024, 
             Gigi Murin: 21 de Junho, 2024, 
             Cecilia Immergreen: 22 de Junho, 2024, 

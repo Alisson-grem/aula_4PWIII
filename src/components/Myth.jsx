@@ -13,7 +13,8 @@ function Myth({music, year_debut, gradiuations, model_showcase, myth}) {
             IRyS entrou no grupo e se tornaram Promise, 
             com uma musica original chamada: Our Promise)" 
             year_debut="Quando foram Debutadas: 2021(Quando ainda eram Council) e 2023(Quando se tornaram Promise)" 
-            gradiuations="Graduação de Membros até o momento: Tsukumo Sana: 31 de Julho de 2022, 
+            gradiuations="Graduação de Membros até o momento: 
+            Tsukumo Sana: 31 de Julho de 2022, 
             Ceres Fauna: 4 de Janeiro de 2025, 
             Nanashi Mumei: 28 de Abril de 2025 " 
             model_showcase="Quando Receberam seus Modelos 3D: 

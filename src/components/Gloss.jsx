@@ -4,13 +4,15 @@ function Gloss({music, year_debut, gradiuations, model_showcase, gloss}) {
     return(
         <>
             <h2>Hololive Japanese</h2>
-            <h2>Dev_Is: ReGloss</h2>
+            <h3>Dev_Is: ReGloss</h3>
             <li>{music} - {year_debut} - {gradiuations} - {model_showcase}</li>
             <div>
                 <img src={gloss} alt="ReGloss" width={700}/>
             </div>
-            <Glow music="" year_debut="" gradiuations="" 
-            model_showcase="" flow="./FLOW GLOW Group.png"/>
+            <Glow music="Musica do Grupo: FG Roadster" 
+            year_debut="Quando foram Debutadas: Todas foram debutadas em 9 de Novembro, 2024" 
+            gradiuations="Graduação de Membros até o momento: Ninguém saiu do grupo" 
+            model_showcase="Quando Receberam seus Modelos 3D: Ainda não recebram um modelo 3D" flow="./FLOW GLOW Group.png"/>
         </>
     )
 

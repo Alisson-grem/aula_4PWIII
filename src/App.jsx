@@ -4,6 +4,7 @@ function App() {
 
   return (
       <div className='App'>
+        <h1>Hololive Vtubers</h1>
         <Lista/>
       </div>
   )

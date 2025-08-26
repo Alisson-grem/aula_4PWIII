@@ -3,7 +3,7 @@ import Advent from './Advent';
 function Promise({music, year_debut, gradiuations, model_showcase, promise}) {
     return(
         <>
-            <h2>EN: Promise</h2>
+            <h3>EN: Promise</h3>
             <li>{music} - {year_debut} - {gradiuations} - {model_showcase}</li>
             <div>
                 <img src={promise} alt="Promise" width={700}/>
@@ -12,7 +12,7 @@ function Promise({music, year_debut, gradiuations, model_showcase, promise}) {
             Koseki Bijou: 30 de Julho, 2023, 
             FuwaMoco(Fuwawa e Mococo): 31 de Julho, 2023, 
             Nerissa RavenCroft: 31 de Julho, 2023 " 
-            gradiuations="Graduação de Membros até o momento: Nenhuma saiu do grupo" 
+            gradiuations="Graduação de Membros até o momento: Ninguém saiu do grupo" 
             model_showcase="Quando Receberam seus Modelos 3D: 
             Shiori Novella: 3 de Agosto, 2024, 
             Koseki Bijou: 3 de Agosto, 2024, 
